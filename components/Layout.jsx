@@ -9,7 +9,7 @@ const Layout = ({children}) => {
     <div className='bg-slate-800  text-text1 '>
       <Head>
         <title>
-          Youtube-clone
+          TubeMate
         </title>
       </Head>
 <header>
